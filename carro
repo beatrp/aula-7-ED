@@ -1,0 +1,15 @@
+#include <iostream>
+#include <string>
+int main () {
+	// Criando uma instancia da clase Carro
+	Carro carro1("Nome", "Marca", "Cor", km);
+	// Exibindo informacoes do carro
+	carro.mostrarInfo();
+	
+	// Modificando o nome, marca, cor e km do carro
+	pessoa1.setnome("onix");
+	pessoa1.setmarca("chevrolet");
+	pessoa1.setcor("preto");
+	pessoa1.setkm(0);
+	
+	}
